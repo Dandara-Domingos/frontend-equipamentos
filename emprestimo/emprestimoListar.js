@@ -1,6 +1,8 @@
 "use strict";
 
-const API_URL = "http://localhost:3000";
+//const API_URL = "http://localhost:3000";
+const API_URL = "https://emp-equip-didatico-aula-9z5k.onrender.com/"; 
+
 
 document.addEventListener("DOMContentLoaded", () => {
   const tbody = document.querySelector("#emprestimosTable tbody");
